@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there!
+I am a Python developer specializing in building backend services and automation tools.
+## Tech Stack
 
-<!--
-**Temka0994/Temka0994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python:** Django, FastAPI, Celery
+- **JavaScript / TypeScript:** Next.js, Redux, React
+- **SQL:** MySQL, PostgreSQL, SQLite
+- **NoSQL:** MongoDB, Redis
+- **Cloud:** AWS
+- **DevOps:** Docker
+- **Testing:** Pytest, Unittest
+- **Markup:** HTML / CSS
